@@ -1,6 +1,3 @@
-Here's a professional `README.md` template for your **Client-Server P2P File Transfer Model** project. It's structured, clear, and includes sections where you can add screenshots, technology details, and instructions.
-
----
 
 ````markdown
 # 🔁 Client-Server P2P File Transfer System
