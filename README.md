@@ -99,11 +99,6 @@ Each client can:
 
 ---
 
-## 👤 Author
-
-**Sanjith Ganesa P**
-*Built as a hands-on networking project to simulate decentralized file sharing using socket programming.*
-
 ---
 
 ## 📄 License
