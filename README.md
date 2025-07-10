@@ -1,5 +1,3 @@
-
-````markdown
 # 🔁 Client-Server P2P File Transfer System
 
 This project implements a **Peer-to-Peer (P2P) File Transfer Model** using a **Client-Server architecture**, developed entirely by **Sanjith Ganesa P**. The model enables efficient file sharing between peers in a decentralized manner, with server support for connection management and coordination.
